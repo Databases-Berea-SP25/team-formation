@@ -91,5 +91,5 @@ If you are unsure whether your email would be considered professional, we encour
 ## **Submission**: 
 
 * Commit and push this completed document, including agreed upon role assignments. All members should edit, commit, and push something.
-* The email to your client should be sent no later than 12pm on Tuesday, 1/30.
-* A copy of the email should be submitted to this repository as a text document (.txt) or markdown (.md)  
+* The email to your client should be sent by the posted deadline.
+* A copy of the email should be submitted to this repository as a markdown document (.md)  
